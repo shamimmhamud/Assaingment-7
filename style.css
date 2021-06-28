@@ -12,24 +12,108 @@ body  {
     margin-left: auto;
     margin-right: auto;
 }
-
 p
-
 {
 text-align: center;
 font-size: 40px;
 }
+ 
+ul.a{
+color: turquoise;
+margin: 4px;
+font-size: 50px;
+}
 
-  div
+
+ul.b{
+  color:blue;
+  margin: 4px;
+  font-size: 25px;
+  }
+
+
+
+
+div.rahul
+{
+
+color: brown;
+text-align: left;
+text-decoration: cyan;
+font-size: 40px;
+}
+
+
+div.flat
+{
+color: mediumvioletred;
+text-align: center;
+font-size: 50px;
+text-decoration: underline;
+
+}
+
+div.rabbi
+{
+color: orangered;
+text-align:left;
+font-size: 40px;
+text-decoration: underline;
+}
+
+
+  div.mhamud
   {
-    color:red;
+    color:yellow;
     background-color: 009900;
     margin: 2px;
-    font-size: 25px;
+    font-size: 200px;
   }
    
-  table, td, th {
-    border: 1px solid black;
+ div.Mohit
+ {
+color: teal;
+background-color: yellow;
+font-family: 'Times New Roman', Times, serif;
+font-size: 280%;
+text-align: center;
+text-decoration: yellow underline;
+display: block;
+ }
+
+div.Azim
+{
+
+color: tomato;
+font-family: "Times New Roman", Times, serif;
+font-size: 280%;
+text-align: left;
+text-decoration: underline;
+
+}
+
+
+div.rahmat
+{
+color:red;
+ font-size: 40px;
+ text-align:center;
+
+ }
+
+
+ div.gf
+ {
+color:red;
+font-size: 30px;
+text-align: left;
+text-decoration: italic;
+ }
+
+
+  table, td, th
+  {
+    border: 1px solid yellowgreen;
   }
   
   table {
@@ -49,5 +133,3 @@ font-size:50px;
 font-style: inherit;
  text-shadow: 2px 2px 5px goldenrod;
   }
-
- 
